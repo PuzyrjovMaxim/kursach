@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+D:\kurs\Project1\FileName.cpp(48,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\kurs\Project1\FileName.cpp(48,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\kurs\Project1\FileName.cpp(180,43): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\kurs\Project1\FileName.cpp(299,39): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\kurs\Project1\FileName.cpp(369,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> D:\kurs\Project1\x64\Debug\Project1.exe
